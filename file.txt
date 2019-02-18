@@ -2,12 +2,3 @@
 Что величием блистали
 Пали все они без боя
 Постарели да устали
-<<<<<<< HEAD
-<<<<<<< HEAD
-
-Где теперь былая слава
-Смолкли все аплодисменты
-=======
->>>>>>> parent of 0bbfb7c... First string of the second verse
-=======
->>>>>>> parent of 0bbfb7c... First string of the second verse
